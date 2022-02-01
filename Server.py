@@ -2,7 +2,7 @@ import threading
 import socket
 
 PORT = 5050
-SERVER = "172.105.36.82"
+SERVER = "YOUR_SERVER_ADDRESS"
 Address = (SERVER, PORT)
 FORMAT = "utf-8"
 DISCONNECT_MESSAGE = "!DISCONNECT"
