@@ -1,2 +1,2 @@
 # Chatroom
-a server to chat with different people from all over the world
+a command line based chatroom server to chat with different people.
